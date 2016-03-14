@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11176" started-at="2014-09-30T06:44:17Z" finished-at="2014-09-30T06:44:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11176" started-at="2014-09-30T06:44:17Z" finished-at="2014-09-30T06:44:28Z">
+      <class name="com.iluwatar.AppTest">
+        <test-method status="PASS" signature="createKingdom()[pri:0, instance:com.iluwatar.AppTest@e2ecc7]" name="createKingdom" duration-ms="73" started-at="2014-09-30T14:44:17Z" finished-at="2014-09-30T14:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createKingdom -->
+        <test-method status="PASS" signature="main()[pri:0, instance:com.iluwatar.AppTest@e2ecc7]" name="main" duration-ms="11093" started-at="2014-09-30T14:44:17Z" finished-at="2014-09-30T14:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.iluwatar.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
